@@ -2,7 +2,7 @@
 This repository was made to host my configurations for developer tools.
 
 ## Sumary
-- [Software to be install]()
+- [Software to be install](#softwares-to-be-install)
 
 ### Softwares to be install
 List of softwares to be installed:
