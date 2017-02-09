@@ -7,7 +7,5 @@ set encoding=utf-8
 set wrap
 set showmode
 set showcmd
-set t_Co=256
-set background=dark
-let g:solarized_termcolors=256
-let g:solarized_termtrans=1
+let g:molokai_original=1
+let g:rehash256=1
