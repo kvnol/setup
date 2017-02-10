@@ -1,7 +1,7 @@
 You're here: [Home](https://github.com/kvnol/.dotfiles) > Sublime Text
 
 # Sublime Text
-Folder to host my configuration on [Sublime Text](sublimetext.com/3)
+Folder to host my configuration on [Sublime Text](http://sublimetext.com/3)
 
 ## Sumary
 Sumary to configurations on Sublime Text.
