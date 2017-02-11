@@ -1,0 +1,15 @@
+[user]
+	name = Kevin Oliveira
+	email = me@kevinoliveira.com.br
+
+[color]
+	ui = auto
+
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	ps = push
+	pl = pull
+	df = diff
