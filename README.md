@@ -1,13 +1,37 @@
-# ⚡  Dotfiles
-This repository was made to host my configurations for developer tools.
+# Setup ⚡
 
-## Sumary
-- [Software to be install](#softwares-to-be-install)
+Guia para configuração do ambiente de desenvolvimento.
 
-### Softwares to be install
-List of softwares to be installed:
-- Git ([Download here](https://git-scm.com/download/))
-- Node.js ([Download here](https://nodejs.org/en/download/))
-- Hyper.is ([Download here](https://hyper.is/))
-- VIM ([Download here](http://www.vim.org/download.php))
-- Sublime Text ([Download here](https://www.sublimetext.com/))
+## Sumário
+
+- [Instalação dos softwares](#instalação-dos-softwares)
+  - [Git](#git)
+- [Configuração dos softwares](#configuração-dos-softwares)
+  - [Git Config](#git-config)
+  - [Prettier](#prettier)
+- [Terminal](#terminal)
+- [Tema](#tema)
+
+### Instalação dos softwares
+
+#### Git
+
+Fazer download e instalação do Git com o comando `sudo apt install git` ou [pelo site oficial](https://git-scm.com/download/).
+
+Rode o comando `git --version` para testar se a instalação foi feita corretamente.
+
+#### Visual Studio Code
+
+Fazer download e instalação do Visual Studio Code [pelo site oficial](https://code.visualstudio.com/download) ou seguindo o [tutorial pela linha de comando](https://code.visualstudio.com/docs/setup/linux).
+
+### Configuração dos softwares
+
+#### Git Config
+
+#### Prettier
+
+### Terminal
+
+### Tema
+
+O tema utilizado em todos os softwares é o [Dracula Theme](https://draculatheme.com/).
