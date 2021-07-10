@@ -2,7 +2,7 @@
 
 Guia para configuração do ambiente de desenvolvimento.
 
-## Sumário
+#### Sumário
 
 - [Instalação dos softwares](#instalação-dos-softwares)
   - [Git](#git)
@@ -18,21 +18,21 @@ Guia para configuração do ambiente de desenvolvimento.
   - [Editor Config](#editor-config)
   - [Prettier](#prettier)
 
-### Instalação dos softwares
+## Instalação dos softwares
 
 Instalações iniciais, e fundamentais para o funcionamento dos projetos, assim que a máquina for formatada.
 
-#### Git
+### Git
 
 Fazer download e instalação do Git com o comando `sudo apt install git` ou [pelo site oficial](https://git-scm.com/download/).
 
 Rode o comando `git --version` para testar se a instalação foi feita corretamente.
 
-#### Visual Studio Code
+### Visual Studio Code
 
 Fazer download e instalação do Visual Studio Code [pelo site oficial](https://code.visualstudio.com/download) ou seguindo o [tutorial pela linha de comando](https://code.visualstudio.com/docs/setup/linux).
 
-#### Docker
+### Docker
 
 Fazer download e instalação do Docker Engine [pelo site oficial](https://docs.docker.com/desktop/) ou seguindo o [tutorial pela linha de comando](https://docs.docker.com/engine/install/ubuntu/).
 
@@ -47,32 +47,32 @@ mkdir -p ~/.docker/cli-plugins
 mv docker-compose-linux-amd64 ~/.docker/cli-plugins/docker-compose
 ```
 
-#### Node Version Manager
+### Node Version Manager
 
 Fazer download e instalação do [Node Version Manager pela linha de comando](https://github.com/nvm-sh/nvm#installing-and-updating).
 
-### Configuração dos softwares
+## Configuração dos softwares
 
-#### Git Config
+### Git Config
 
 Vá até a raiz do sistema com `cd ~` e copie o arquivo [.gitconfig](/.gitconfig).
 
-#### Terminal
+### Terminal
 
-### Personalização
+## Personalização
 
-#### Fonte
+### Fonte
 
 A fonte utilizada nos terminais e nos editores é a [Fira Code](https://github.com/tonsky/FiraCode).
 
-#### Tema
+### Tema
 
 O tema utilizado em todos os softwares é o [Dracula Theme](https://draculatheme.com/).
 
-### Projetos
+## Projetos
 
-#### Editor Config
+### Editor Config
 
 Adicionar em todos os projetos o arquivo [.editorconfig](/.editorconfig).
 
-#### Prettier
+### Prettier
