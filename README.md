@@ -6,6 +6,9 @@ Guia para configuração do ambiente de desenvolvimento.
 
 - [Instalação dos softwares](#instalação-dos-softwares)
   - [Git](#git)
+  - [Visual Studio Code](#visual-studio-code)
+  - [Docker](#docker)
+  - [Node Version Manager](#node-version-manager)
 - [Configuração dos softwares](#configuração-dos-softwares)
   - [Git Config](#git-config)
   - [Prettier](#prettier)
