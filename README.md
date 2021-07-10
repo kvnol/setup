@@ -9,13 +9,18 @@ Guia para configuração do ambiente de desenvolvimento.
   - [Visual Studio Code](#visual-studio-code)
   - [Docker](#docker)
   - [Node Version Manager](#node-version-manager)
-- [Configuração dos softwares](#configuração-dos-softwares)
+- [Configuração](#configuração-dos-softwares)
   - [Git Config](#git-config)
 - [Personalização](#personalização)
   - [Fonte](#fonte)
   - [Tema](#tema)
+- [Projetos](#projetos)
+  - [Editor Config](#editor-config)
+  - [Prettier](#prettier)
 
 ### Instalação dos softwares
+
+Instalações iniciais, e fundamentais para o funcionamento dos projetos, assim que a máquina for formatada.
 
 #### Git
 
@@ -52,8 +57,6 @@ Fazer download e instalação do [Node Version Manager pela linha de comando](ht
 
 Vá até a raiz do sistema com `cd ~` e copie o arquivo [.gitconfig](/.gitconfig).
 
-#### Prettier
-
 #### Terminal
 
 ### Personalização
@@ -65,3 +68,11 @@ A fonte utilizada nos terminais e nos editores é a [Fira Code](https://github.c
 #### Tema
 
 O tema utilizado em todos os softwares é o [Dracula Theme](https://draculatheme.com/).
+
+### Projetos
+
+#### Editor Config
+
+Adicionar em todos os projetos o arquivo [.editorconfig](/.editorconfig).
+
+#### Prettier
