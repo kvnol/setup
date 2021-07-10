@@ -33,6 +33,15 @@ Fazer download e instalação do Docker Engine [pelo site oficial](https://docs.
 
 Rode o comando `docker -v` para testar se a instalação foi feita corretamente.
 
+Instalar também o Docker Compose:
+
+```sh
+wget https://github.com/docker/compose-cli/releases/download/v2.0.0-beta.4/docker-compose-linux-amd64
+chmod +x docker-compose-linux-amd64
+mkdir -p ~/.docker/cli-plugins
+mv docker-compose-linux-amd64 ~/.docker/cli-plugins/docker-compose
+```
+
 #### Node Version Manager
 
 Fazer download e instalação do [Node Version Manager pela linha de comando](https://github.com/nvm-sh/nvm#installing-and-updating).
