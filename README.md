@@ -24,6 +24,16 @@ Rode o comando `git --version` para testar se a instalação foi feita corretame
 
 Fazer download e instalação do Visual Studio Code [pelo site oficial](https://code.visualstudio.com/download) ou seguindo o [tutorial pela linha de comando](https://code.visualstudio.com/docs/setup/linux).
 
+#### Docker
+
+Fazer download e instalação do Docker Engine [pelo site oficial](https://docs.docker.com/desktop/) ou seguindo o [tutorial pela linha de comando](https://docs.docker.com/engine/install/ubuntu/).
+
+Rode o comando `docker -v` para testar se a instalação foi feita corretamente.
+
+#### Node Version Manager
+
+Fazer download e instalação do [Node Version Manager pela linha de comando](https://github.com/nvm-sh/nvm#installing-and-updating).
+
 ### Configuração dos softwares
 
 #### Git Config
