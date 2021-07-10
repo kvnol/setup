@@ -49,7 +49,7 @@ mv docker-compose-linux-amd64 ~/.docker/cli-plugins/docker-compose
 
 ### Node Version Manager
 
-Fazer download e instalação do [Node Version Manager pela linha de comando](https://github.com/nvm-sh/nvm#installing-and-updating).
+Fazer download e instalação do [NVM pela linha de comando](https://github.com/nvm-sh/nvm#installing-and-updating).
 
 ## Configuração dos softwares
 
