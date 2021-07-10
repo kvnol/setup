@@ -11,9 +11,10 @@ Guia para configuração do ambiente de desenvolvimento.
   - [Node Version Manager](#node-version-manager)
 - [Configuração dos softwares](#configuração-dos-softwares)
   - [Git Config](#git-config)
-  - [Prettier](#prettier)
-- [Terminal](#terminal)
-- [Tema](#tema)
+  - [Prettier](#prettier
+- [Personalização](#personalização)
+  - [Fonte](#fonte)
+  - [Tema](#tema)
 
 ### Instalação dos softwares
 
@@ -52,8 +53,14 @@ Fazer download e instalação do [Node Version Manager pela linha de comando](ht
 
 #### Prettier
 
-### Terminal
+#### Terminal
 
-### Tema
+### Personalização
+
+#### Fonte
+
+A fonte utilizada nos terminais e nos editores é a [Fira Code](https://github.com/tonsky/FiraCode).
+
+#### Tema
 
 O tema utilizado em todos os softwares é o [Dracula Theme](https://draculatheme.com/).
