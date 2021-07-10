@@ -11,7 +11,6 @@ Guia para configuração do ambiente de desenvolvimento.
   - [Node Version Manager](#node-version-manager)
 - [Configuração dos softwares](#configuração-dos-softwares)
   - [Git Config](#git-config)
-  - [Prettier](#prettier
 - [Personalização](#personalização)
   - [Fonte](#fonte)
   - [Tema](#tema)
@@ -50,6 +49,8 @@ Fazer download e instalação do [Node Version Manager pela linha de comando](ht
 ### Configuração dos softwares
 
 #### Git Config
+
+Vá até a raiz do sistema com `cd ~` e copie o arquivo [.gitconfig](/.gitconfig).
 
 #### Prettier
 
