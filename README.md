@@ -62,8 +62,6 @@ Vá até a raiz do sistema com `cd ~` e copie o arquivo [.gitconfig](/.gitconfig
 
 Algumas configurações no terminal são essenciais para aumento de produtividade no dia-a-dia.
 
-Comece copiando o arquivo [.bashrc](/.bashrc) para a raiz do sistema (`cd ~`).
-
 #### ZSH
 
 Instale o Oh My Zsh através da [linha de comando](https://ohmyz.sh/#install) e copie o arquivo [.zshrc] para a raiz do sistema (`cd ~`).
