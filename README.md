@@ -89,3 +89,5 @@ O tema utilizado em todos os softwares é o [Dracula Theme](https://draculatheme
 Adicionar em todos os projetos o arquivo [.editorconfig](/.editorconfig).
 
 ### Prettier
+
+Adicionar em todos os projetos o arquivo [.prettierrc](/.prettierrc).
