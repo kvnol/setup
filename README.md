@@ -64,6 +64,8 @@ Algumas configurações no terminal são essenciais para aumento de produtividad
 
 #### ZSH
 
+Instale o ZSH através da [linha de comando](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH).
+
 Instale o Oh My Zsh através da [linha de comando](https://ohmyz.sh/#install) e copie o arquivo [.zshrc] para a raiz do sistema (`cd ~`).
 
 ## Personalização
