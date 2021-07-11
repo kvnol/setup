@@ -11,6 +11,7 @@ Guia para configuração do ambiente de desenvolvimento.
   - [Node Version Manager](#node-version-manager)
 - [Configuração](#configuração-dos-softwares)
   - [Git Config](#git-config)
+  - [Terminal](#terminal)
 - [Personalização](#personalização)
   - [Fonte](#fonte)
   - [Tema](#tema)
@@ -58,6 +59,14 @@ Fazer download e instalação do [NVM pela linha de comando](https://github.com/
 Vá até a raiz do sistema com `cd ~` e copie o arquivo [.gitconfig](/.gitconfig).
 
 ### Terminal
+
+Algumas configurações no terminal são essenciais para aumento de produtividade no dia-a-dia.
+
+Comece copiando o arquivo [.bashrc](/.bashrc) para a raiz do sistema (`cd ~`).
+
+#### ZSH
+
+Instale o Oh My Zsh através da [linha de comando](https://ohmyz.sh/#install) e copie o arquivo [.zshrc] para a raiz do sistema (`cd ~`).
 
 ## Personalização
 
