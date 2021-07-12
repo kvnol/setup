@@ -18,6 +18,7 @@ Guia para configuração do ambiente de desenvolvimento.
 - [Projetos](#projetos)
   - [Editor Config](#editor-config)
   - [Prettier](#prettier)
+- [Live](#live)
 
 ## Instalação dos softwares
 
@@ -91,3 +92,11 @@ Adicionar em todos os projetos o arquivo [.editorconfig](/.editorconfig).
 ### Prettier
 
 Adicionar em todos os projetos o arquivo [.prettierrc](/.prettierrc).
+
+## Live
+
+### Streamlabs OBS
+
+### Iriun Webcam
+
+### BlackHole 2ch
